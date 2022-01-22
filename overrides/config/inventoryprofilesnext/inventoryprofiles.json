@@ -1,5 +1,21 @@
 {
     "ModSettings": {
+        "enable_profiles": false,
+        "add_interval_between_clicks": true,
+        "sort_at_cursor": true,
         "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "treat_unknown_screens_as_containers": false,
+        "show_continuous_crafting_checkbox": false,
+        "show_sort_in_columns_button": false,
+        "show_sort_in_rows_button": false,
+        "show_button_tooltips": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_disable_quick_move_throw": false,
+        "show_locked_slots_foreground": false,
+        "also_show_locked_slots_in_hotbar": false
     }
 }
