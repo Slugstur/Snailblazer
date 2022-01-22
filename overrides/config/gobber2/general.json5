@@ -301,8 +301,8 @@
 	   ***********************
 	*/
 	"unbreakableDragonArmor": true,
-	"enableDragonArmorWithoutFlight": false,
-	"enableDragonArmorWithFlight": true,
+	"enableDragonArmorWithoutFlight": true,
+	"enableDragonArmorWithFlight": false,
 	"enableDragonBreathing": true,
 	"enableDragonFirePerk": true,
 	"enableDragonHealthPerks": true,

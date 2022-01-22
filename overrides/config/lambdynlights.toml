@@ -22,6 +22,7 @@ mode = "fastest"
 			[light_sources.settings.entities.minecraft]
 				axolotl = true
 				bee = true
+				arrow = true
 				cow = true
 				magma_cube = true
 				pig = true
