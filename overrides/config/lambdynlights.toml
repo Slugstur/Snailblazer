@@ -1,0 +1,110 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fastest"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "simple"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				bee = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				hoglin = true
+				rabbit = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				wither_skeleton = true
+				piglin_brute = true
+				goat = true
+				item_frame = true
+				ender_dragon = true
+				glow_squid = true
+				squid = true
+				creeper = true
+				enderman = true
+				chicken = true
+				trader_llama = true
+				chest_minecart = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				piglin = true
+				cat = true
+				zombie = true
+				ghast = true
+				sheep = true
+				player = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				small_fireball = true
+				polar_bear = true
+				strider = true
+				painting = true
+				cod = true
+				witch = true
+				spider = true
+
+			[light_sources.settings.entities.betteranimalsplus]
+				deer = true
+				shark = true
+				feralwolf = true
+				reindeer = true
+				jellyfish = true
+				piranha = true
+				goose = true
+				songbird = true
+				eel_freshwater = true
+				nautilus = true
+				badger = true
+				boar = true
+				squirrel = true
+				brownbear = true
+				walrus = true
+				whale = true
+				lamprey = true
+				turkey = true
+				butterfly = true
+				coyote = true
+				pheasant = true
+				blackbear = true
+				lammergeier = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				naga = true
+
+			[light_sources.settings.entities.adventurez]
+				deer = true
+				amethyst_golem = true
+				soul_reaper = true
+				necromancer = true
+				nightmare = true
+				mammoth = true
+
