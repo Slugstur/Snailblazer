@@ -17,5 +17,12 @@
         "locked_slots_disable_quick_move_throw": false,
         "show_locked_slots_foreground": false,
         "also_show_locked_slots_in_hotbar": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        }
     }
 }

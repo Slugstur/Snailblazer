@@ -8,7 +8,7 @@
     "spawn_egg_skull [default: true]": true,
     "chair [default: true]": true
   },
-  "firefly [default: true]": true,
+  "firefly [default: true]": false,
   "hydrogen_jellyfish [default: true]": true,
   "naga [default: true]": true,
   "flying_pig [default: true]": true,
