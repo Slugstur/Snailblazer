@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SB-1.18.1",
-  "version": "0.4",
+  "version": "0.5",
   "author": "",
   "files": [
     {
@@ -167,6 +167,11 @@
     {
       "projectID": 433539,
       "fileID": 3551346,
+      "required": true
+    },
+    {
+      "projectID": 567580,
+      "fileID": 3606156,
       "required": true
     },
     {

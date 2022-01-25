@@ -92,6 +92,7 @@ mode = "fastest"
 				goose = true
 				songbird = true
 				eel_freshwater = true
+				squid_giant = true
 				boar = true
 				dragonfly = true
 				whale = true
