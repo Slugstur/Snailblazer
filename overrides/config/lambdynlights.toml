@@ -28,6 +28,7 @@ mode = "fastest"
 				pig = true
 				skeleton = true
 				bat = true
+				husk = true
 				hoglin = true
 				rabbit = true
 				armor_stand = true
@@ -38,6 +39,7 @@ mode = "fastest"
 				turtle = true
 				salmon = true
 				wither_skeleton = true
+				wandering_trader = true
 				piglin_brute = true
 				goat = true
 				item_frame = true
@@ -50,10 +52,12 @@ mode = "fastest"
 				enderman = true
 				chicken = true
 				trader_llama = true
+				donkey = true
 				chest_minecart = true
 				fox = true
 				tropical_fish = true
 				slime = true
+				pillager = true
 				iron_golem = true
 				zombified_piglin = true
 				piglin = true
@@ -76,6 +80,7 @@ mode = "fastest"
 				painting = true
 				cod = true
 				witch = true
+				snow_golem = true
 				spider = true
 
 			[light_sources.settings.entities.graveyard]
@@ -84,13 +89,18 @@ mode = "fastest"
 				ghoul = true
 				nightmare = true
 
+			[light_sources.settings.entities.gobber2]
+				nemesis = true
+
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
 				feralwolf = true
 				reindeer = true
 				jellyfish = true
+				octopus = true
 				goose = true
 				songbird = true
+				badgerdirt = true
 				eel_freshwater = true
 				squid_giant = true
 				boar = true
@@ -104,7 +114,10 @@ mode = "fastest"
 				flying_fish = true
 				piranha = true
 				bobbit_worm = true
+				barracuda = true
 				nautilus = true
+				moose = true
+				tarantula = true
 				badger = true
 				eel_saltwater = true
 				squirrel = true
@@ -125,6 +138,7 @@ mode = "fastest"
 			[light_sources.settings.entities.adventurez]
 				deer = true
 				orc = true
+				iguana = true
 				amethyst_golem = true
 				soul_reaper = true
 				necromancer = true
@@ -146,4 +160,9 @@ mode = "fastest"
 
 			[light_sources.settings.entities.bosses_of_mass_destruction]
 				gauntlet = true
+
+			[light_sources.settings.entities.golemsgalore]
+				quartz_golem = true
+				obsidian_golem = true
+				laser_golem = true
 
