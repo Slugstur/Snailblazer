@@ -5,7 +5,7 @@
 	   No worldgen options
 	   ***********************
 	*/
-	"enableGobberAlternateDrops": false,
+	"enableGobberAlternateDrops": true,
 	"diamondGobberDropChance": 0.15000000596046448,
 	"netherGoldGobberDropChance": 0.15000000596046448,
 	/* 
@@ -64,7 +64,7 @@
 	"gobberEnable": true,
 	"gobberVeinSize": 4,
 	"gobberMaxLevel": 5,
-	"gobberPerChunk": 20,
+	"gobberPerChunk": 10,
 	/* 
 	   
 	   ***********************
@@ -74,7 +74,7 @@
 	"gobberDeepslateEnable": true,
 	"gobberDeepslateVeinSize": 4,
 	"gobberDeepslateMaxLevel": 0,
-	"gobberDeepslatePerChunk": 20,
+	"gobberDeepslatePerChunk": 5,
 	/* 
 	   
 	   ***********************
