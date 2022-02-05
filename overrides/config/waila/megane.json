@@ -36,7 +36,8 @@
     "expandWhenSneak": false,
     "colors": {
       "megane:default": 855385,
-      "minecraft:water": 4159204
+      "minecraft:water": 4159204,
+      "minecraft:lava": 13916690
     },
     "blacklist": []
   },

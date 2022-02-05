@@ -36,23 +36,33 @@ mode = "fastest"
 				experience_orb = true
 				dolphin = true
 				item = true
+				stray = true
 				turtle = true
 				salmon = true
 				wither_skeleton = true
 				wandering_trader = true
+				vex = true
 				piglin_brute = true
 				goat = true
+				ocelot = true
 				item_frame = true
 				horse = true
+				vindicator = true
 				phantom = true
 				ender_dragon = true
+				evoker = true
+				llama_spit = true
 				glow_squid = true
 				squid = true
+				tnt = true
+				parrot = true
 				creeper = true
+				lightning_bolt = true
 				enderman = true
 				chicken = true
 				trader_llama = true
 				donkey = true
+				evoker_fangs = true
 				chest_minecart = true
 				fox = true
 				tropical_fish = true
@@ -60,6 +70,7 @@ mode = "fastest"
 				pillager = true
 				iron_golem = true
 				zombified_piglin = true
+				area_effect_cloud = true
 				piglin = true
 				blaze = true
 				cat = true
@@ -70,27 +81,29 @@ mode = "fastest"
 				sheep = true
 				player = true
 				pufferfish = true
+				potion = true
+				trident = true
 				villager = true
 				wolf = true
+				skeleton_horse = true
 				zombie_villager = true
 				elder_guardian = true
 				small_fireball = true
+				boat = true
 				polar_bear = true
 				strider = true
 				painting = true
+				cave_spider = true
 				cod = true
 				witch = true
 				snow_golem = true
 				spider = true
 
-			[light_sources.settings.entities.graveyard]
-				revenant = true
-				skeleton_creeper = true
-				ghoul = true
-				nightmare = true
-
 			[light_sources.settings.entities.gobber2]
 				nemesis = true
+
+			[light_sources.settings.entities.revamped_phantoms]
+				shockwave = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
@@ -129,6 +142,30 @@ mode = "fastest"
 				lammergeier = true
 				crab = true
 
+			[light_sources.settings.entities.lovely_snails]
+				snail = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				gauntlet = true
+				void_blossom = true
+
+			[light_sources.settings.entities.golemsgalore]
+				quartz_golem = true
+				obsidian_golem = true
+				amethyst_golem = true
+				laser_golem = true
+
+			[light_sources.settings.entities.graveyard]
+				acolyte = true
+				revenant = true
+				skeleton_creeper = true
+				ghoul = true
+				reaper = true
+				nightmare = true
+
+			[light_sources.settings.entities.byg]
+				boat = true
+
 			[light_sources.settings.entities.betternether]
 				firefly = true
 				hydrogen_jellyfish = true
@@ -137,16 +174,24 @@ mode = "fastest"
 
 			[light_sources.settings.entities.adventurez]
 				deer = true
+				skeleton_vanguard = true
 				orc = true
-				iguana = true
-				amethyst_golem = true
-				soul_reaper = true
 				necromancer = true
 				ender_whale = true
 				blaze_guardian = true
+				small_stone_golem = true
+				piglin_beast = true
+				shaman = true
 				blaze_guardian_shield = true
+				brown_fungus = true
 				nightmare = true
 				mammoth = true
+				stone_golem = true
+				iguana = true
+				amethyst_golem = true
+				soul_reaper = true
+				amethyst_shard = true
+				summoner = true
 
 			[light_sources.settings.entities.betterend]
 				dragonfly = true
@@ -155,14 +200,7 @@ mode = "fastest"
 				end_slime = true
 				end_fish = true
 
-			[light_sources.settings.entities.lovely_snails]
-				snail = true
-
-			[light_sources.settings.entities.bosses_of_mass_destruction]
-				gauntlet = true
-
-			[light_sources.settings.entities.golemsgalore]
-				quartz_golem = true
-				obsidian_golem = true
-				laser_golem = true
+			[light_sources.settings.entities.edenring]
+				diskwing = true
+				lightning_ray = true
 
