@@ -107,6 +107,6 @@
 			"creativeFlightChance": 0.004999999888241291,
 			"lootingMultiplier": 0.004999999888241291
 		},
-		"enderdragonDropsHeartOfTheSky": true
+		"enderdragonDropsHeartOfTheSky": false
 	}
 }

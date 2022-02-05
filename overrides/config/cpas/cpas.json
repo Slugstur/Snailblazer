@@ -1,0 +1,13 @@
+{
+  "showHelp": false,
+  "entries": {
+    "com.github.clevernucleus.playerex.client.gui.CombatPageLayer": true,
+    "com.github.clevernucleus.playerex.client.gui.AttributesPageLayer": true,
+    "fuzs.enchantinginfuser.client.gui.screens.inventory.InfuserScreen": true,
+    "fuzs.easymagic.client.gui.screens.inventory.ModEnchantmentScreen": true,
+    "com.github.clevernucleus.playerex.client.gui.ExScreen": true,
+    "net.minecraft.class_479": true,
+    "net.minecraft.class_476": true,
+    "net.minecraft.class_492": true
+  }
+}
